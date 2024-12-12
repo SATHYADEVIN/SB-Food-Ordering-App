@@ -1,0 +1,13 @@
+{
+  "name": "sbfood",
+  "version": "1.0.0",
+  "description": "This project is a food ordering website built using the MEAN stack (MongoDB, Express.js, Angular, and Node.js). The application allows users to browse food items, add them to their cart, and place orders seamlessly.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
